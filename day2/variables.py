@@ -1,3 +1,8 @@
+# Dia 2: 30 Days of Python Programming
+# Autor: Joseph Marin
+# Description: Variables, data types, operators and basic input
+
+
 #Agregamos varias variables
 
 nombre, apellido, nombre_completo, pais, ciudad, edad, año, casado, is_true, is_light_on = "Joseph", "Marin", "Joseph Marin", "Colombia", "Cali", 18, 2026, False, False, True
